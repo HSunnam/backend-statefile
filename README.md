@@ -1,6 +1,6 @@
-# backend-statefile
+# backend-state file
 
-This Repo explains how to use the S3 bucket and Dynamo Db for the remote state file locking.
+This Repo explains using the S3 bucket and Dynamo DB for remote state file locking.
 
 terraform init
 terraform validate
